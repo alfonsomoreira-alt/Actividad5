@@ -50,5 +50,3 @@ Se deben crear 350.000 alumnos y realizar las siguientes operaciones para cada t
 
 Los resultados pueden variar según el hardware y el sistema operativo utilizados.
 
-## Estructura del proyecto
-
